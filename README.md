@@ -1,1 +1,1 @@
-react-sso
+React-SSO
